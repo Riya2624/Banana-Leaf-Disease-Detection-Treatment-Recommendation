@@ -47,3 +47,10 @@ This project is a web-based AI tool built using **Streamlit** that detects banan
    ```bash
    git clone https://github.com/Riya2624/Banana-Leaf-Disease-Detection-Treatment-Recommendation.git
    cd banana-leaf-disease-detection
+
+## 🖼️ Screenshot
+
+Here is an example of the application in action:
+
+![Screenshot 2025-03-11 144340](https://github.com/user-attachments/assets/1f0e233f-a961-447d-ab43-af75d0f5db2a)
+
